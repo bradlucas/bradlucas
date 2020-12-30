@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 
 My name is Brad Lucas and I'm a software developer, engineering manager and CTO. For more about my background visit my profile on [LinkedIn](https://www.linkedin.com/in/bradlucas/).
 
+ ---
+ 
+ 
 ## &#x270d; Blog & Writing
 
 I maintain a blog at [https://blog.bradlucas.com](https://blog.bradlucas.com/) and a website at [https://bradlucas.com](https://bradlucas.com/).
 
+ ---
+ 
+ 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -37,6 +43,7 @@ I maintain a blog at [https://blog.bradlucas.com](https://blog.bradlucas.com/) a
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
+ ---
 
 ## &#x1f4c8; GitHub Stats
 
