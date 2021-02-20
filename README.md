@@ -61,6 +61,5 @@ I maintain a blog at [https://blog.bradlucas.com](https://blog.bradlucas.com/) a
 <!-- Resources: -->
 <!-- https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
 <!-- https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
